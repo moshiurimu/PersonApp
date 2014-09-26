@@ -1,0 +1,9 @@
+G:\Moshiur\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+G:\Moshiur\PersonApp\PersonApp\obj\Debug\PersonApp.csprojResolveAssemblyReference.cache
+G:\Moshiur\PersonApp\PersonApp\obj\Debug\PersonApp.PersonUI.resources
+G:\Moshiur\PersonApp\PersonApp\obj\Debug\PersonApp.Properties.Resources.resources
+G:\Moshiur\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.Cache
+G:\Moshiur\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+G:\Moshiur\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+G:\Moshiur\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+G:\Moshiur\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
