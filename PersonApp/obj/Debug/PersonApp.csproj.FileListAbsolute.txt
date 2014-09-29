@@ -7,3 +7,12 @@ G:\Moshiur\PersonApp\PersonApp\bin\Debug\PersonApp.exe
 G:\Moshiur\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
 G:\Moshiur\PersonApp\PersonApp\obj\Debug\PersonApp.exe
 G:\Moshiur\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
+D:\Moshiur_OOP_49\PersonApp-master\PersonApp-master\PersonApp\bin\Debug\PersonApp.exe.config
+D:\Moshiur_OOP_49\PersonApp-master\PersonApp-master\PersonApp\obj\Debug\PersonApp.exe
+D:\Moshiur_OOP_49\PersonApp-master\PersonApp-master\PersonApp\obj\Debug\PersonApp.pdb
+D:\Moshiur_OOP_49\PersonApp-master\PersonApp-master\PersonApp\obj\Debug\PersonApp.csprojResolveAssemblyReference.cache
+D:\Moshiur_OOP_49\PersonApp-master\PersonApp-master\PersonApp\obj\Debug\PersonApp.PersonUI.resources
+D:\Moshiur_OOP_49\PersonApp-master\PersonApp-master\PersonApp\obj\Debug\PersonApp.Properties.Resources.resources
+D:\Moshiur_OOP_49\PersonApp-master\PersonApp-master\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.Cache
+D:\Moshiur_OOP_49\PersonApp-master\PersonApp-master\PersonApp\bin\Debug\PersonApp.exe
+D:\Moshiur_OOP_49\PersonApp-master\PersonApp-master\PersonApp\bin\Debug\PersonApp.pdb

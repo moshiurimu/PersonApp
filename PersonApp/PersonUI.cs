@@ -19,10 +19,8 @@ namespace PersonApp
 
         private void showButton_Click(object sender, EventArgs e)
         {
-            Person anPerson = new Person();
-            anPerson.firstName = firstNameTextBox.Text;
-            anPerson.middleName = middlaNameTextBox.Text;
-            anPerson.lastName = lastNameTextBox.Text;
+            Person anPerson = new Person(firstNameTextBox.Text, middlaNameTextBox.Text,lastNameTextBox.Text);
+            Person aPerson = new Person(firstNameTextBox.Text, lastNameTextBox.Text);
 
             fullNameTextBox.Text = anPerson.GetFullName();
             reversNameTextBox.Text = anPerson.GetFullReversName();

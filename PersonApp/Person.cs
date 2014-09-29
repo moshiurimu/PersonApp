@@ -8,14 +8,27 @@ namespace PersonApp
 {
     class Person
     {
-        public string firstName;
-        public string middleName;
-        public string lastName;
+        public string FirstName { private get; set; }
+        public string MiddleName { private get; set; }
+        public string LastName { private get; set; }
+
+        public Person(string firstName, string middleName, string lastName): this (firstName,lastName)
+        {
+            MiddleName = middleName;
+        }
+
+        public Person(string firstName, string lastName)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+        }
 
         public string GetFullName()
         {
-            return firstName + " " + middleName + " " + lastName;
+            return FirstName + " " + MiddleName + " " + LastName;
         }
+
+                  
 
         public string GetFullReversName()
         {
